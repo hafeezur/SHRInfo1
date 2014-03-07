@@ -1,0 +1,6 @@
+GRANT CREATE TABLE to BrokerageUser;
+
+GRANT CREATE VIEW to BrokerageUser;
+
+
+GRANT UNLIMITED TABLESPACE TO BrokerageUser;
